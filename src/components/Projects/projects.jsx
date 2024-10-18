@@ -40,7 +40,7 @@ const Projects = () => {
           description="A personal portfolio showcasing various web development projects. Developed using HTML, Next.js, and Tailwind CSS."
           image="/images/project5.png"
           demourl="https://siddiqaportfolio.vercel.app/"
-          codeurl="https://github.com/Siddiqa77/My-Portfolio-Next.js"
+          codeurl="#"
         />
         <ProjectCard
           title="Image Gallery"

@@ -1,8 +1,8 @@
-import About from "./Components/about";
+import About from "./components/about";
 import Contact from "./components/contact";
-import Footer from "./Components/footer";
+import Footer from "./components/footer";
 import Home from "./components/home";
-import Navbar from "./Components/navbar";
+import Navbar from "./components/navbar";
 import Projects from "./components/Projects/projects";
 import Skill from "./components/skill";
 

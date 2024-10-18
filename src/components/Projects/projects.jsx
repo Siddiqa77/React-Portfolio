@@ -12,21 +12,21 @@ const Projects = () => {
           description="This is a Wedding Planner website created by HTML, CSS and JS with some component libraries for better user experience and styling."
           image="public/images/project1.png"
           demourl="https://wedding-planner-website-liard.vercel.app/"
-          codeurl="https://github.com/Siddiqa77/Wedding-Planner-Website"
+          codeurl="#"
         />
         <ProjectCard
           title="Ecommerce Website"
           description="This is a ZULU Shoes Ecommerce website created by HTML, CSS and JS with some component libraries for better user experience and styling."
           image="public/images/project2.png"
           demourl="https://internship-pakistan-task-4.vercel.app/"
-          codeurl="https://github.com/Siddiqa77/Internship-Pakistan-Task-4"
+          codeurl="#"
         />
         <ProjectCard
           title="Techforcepakistan "
           description="This is a Wedding Planner website created by HTML and CSS with some component libraries for better user experience and styling.."
           image="public/images/project3.png"
           demourl="https://js-website-8cddd.web.app/"
-          codeurl="https://github.com/Siddiqa77/Portfolio/tree/main/Techforce%20Pakistan"
+          codeurl=""
         />
         <ProjectCard
           title="Event Website"

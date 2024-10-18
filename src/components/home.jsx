@@ -45,13 +45,13 @@ const Home = () => {
             </div>
 
             <div className="flex justify-center mt-4">
-              <a href="Cv.pdf.pdf">
+              <a href="Cv.pdf.pdf" target="_blank">
                 <button className="inline-flex text-black font-bold  bg-[#D105FF] border-0 py-2 px-6 focus:outline-none hover:bg-purple-600 hover:text-gray-200 rounded text-lg md:ml-[200px] transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 ... ">
                   Download CV
                   <FaCloudDownloadAlt className="inline-block md:pt-2 ml-2" />
                 </button>
               </a>
-              <a href="https://github.com/Siddiqa77">
+              <a href="https://github.com/Siddiqa77" target="_blank">
                 <button className="ml-4 inline-flex text-black bg-[#de7c3c] border-0 py-2 px-6 font-bold focus:outline-none  hover:text-gray-200 rounded text-lg transition ease-in-out delay-150  hover:-translate-y-1 hover:scale-110 hover:bg-[#7613E8] duration-300 ...">
                   Github
                 </button>
